@@ -1,0 +1,6 @@
+2026-06-16 10:00:01 INFO Checkout API started
+2026-06-16 10:00:15 ERROR Timeout to payments service
+2026-06-16 10:00:18 ERROR Timeout to payments service
+2026-06-16 10:00:25 WARNING Database latency high
+2026-06-16 10:00:40 ERROR Timeout to payments service
+2026-06-16 10:00:50 INFO Retry successful
